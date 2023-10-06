@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João 👋
 
 - 🔭 Estou trabalhando como Estagiário em TI
-- 🌱 Estou aprendendo Python, JavaScript, entre outra tecnologias
+- 🌱 Estou aprendendo Python, JavaScript, entre outras tecnologias
 - 📫 Meu email é jvbelletati@gmail.com
 
 ##
