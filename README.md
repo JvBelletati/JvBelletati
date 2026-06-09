@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59F7&center=true&vCenter=true&width=500&lines=Analista+de+TI+%7C+MLOps+%7C+Cloud;Python+%2B+Azure+%2B+Machine+Learning;Do+dado+bruto+ao+modelo+em+produ%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ### 📌 Sobre mim
@@ -87,26 +93,18 @@ Pipeline MLOps **end-to-end** para prever evasão de clientes de uma fintech fic
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JvBelletati&theme=radical&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvBelletati&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JvBelletati&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvBelletati&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JvBelletati&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JvBelletati&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JvBelletati&color=blueviolet&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Profile views" />
 </div>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59F7&center=true&vCenter=true&width=500&lines=Analista+de+TI+%7C+MLOps+%7C+Cloud;Python+%2B+Azure+%2B+Machine+Learning;Do+dado+bruto+ao+modelo+em+produção+🚀" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
