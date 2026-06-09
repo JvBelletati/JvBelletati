@@ -1,4 +1,4 @@
-<h2 align="center">👋 Olá, eu sou o João!</h2>
+<h2 align="center">👋 Olá, eu sou o João Belletati!</h2>
 
 <p align="center">
   💼 Analista de TI Júnior &nbsp;|&nbsp; ☁️ Cloud & Automação &nbsp;|&nbsp; 🤖 IA & Machine Learning
@@ -29,7 +29,13 @@ Atualmente cursando **Pós-graduação em Engenharia de Machine Learning (FIAP)*
 
 🎯 Meu objetivo é evoluir continuamente, aplicando tecnologia de forma estratégica, escalável e orientada a resultados.
 
-📩 Contato: **jvbelletati@gmail.com**
+---
+
+### 🎯 Atualmente
+
+- 🎓 Finalizando a **Pós-graduação em Engenharia de Machine Learning** na FIAP
+- 🔬 Aprofundando **MLOps**, governança de modelos e detecção de drift em produção
+- ☁️ Expandindo arquiteturas **cloud-native** com Azure e infraestrutura como código
 
 ---
 
@@ -94,7 +100,7 @@ Pipeline MLOps **end-to-end** para prever evasão de clientes de uma fintech fic
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JvBelletati&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JvBelletati&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvBelletati&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
@@ -113,15 +119,15 @@ Pipeline MLOps **end-to-end** para prever evasão de clientes de uma fintech fic
 <p align="center">
   <img title="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img title="PyTorch" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img title="JavaScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img title="React" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="HTML5" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img title="CSS3" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img title="Scikit-Learn" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img title="Pandas" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img title="NumPy" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img title="FastAPI" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
   <img title="Microsoft Azure" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img title="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img title="Terraform" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img title="PowerShell" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-  <img title="n8n" height="36" alt="n8n" src="https://github.com/n8n-io/n8n/raw/master/assets/n8n-logo.png" />
+  <img title="n8n" height="36" src="https://cdn.simpleicons.org/n8n/EA4B71" />
 </p>
 
 ---
@@ -129,6 +135,9 @@ Pipeline MLOps **end-to-end** para prever evasão de clientes de uma fintech fic
 ### 🌐 Conecte-se comigo
 
 <p align="center">
+  <a href="https://github.com/JvBelletati" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/JvBelletati" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
